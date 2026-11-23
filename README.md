@@ -294,9 +294,6 @@ The main objective of TaskViewer is to provide a simple and user-friendly platfo
 **Backend:** Python & FastAPI  
 **Database:** MySQL
 
-**GitHub:** Add your GitHub repository link here.
-
----
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
