@@ -137,7 +137,7 @@ class _LoginScreenState extends State<LoginScreen> {
               const SizedBox(height: 20),
 
               const Text(
-                "Tash Viewer",
+                "Task Viewer",
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
